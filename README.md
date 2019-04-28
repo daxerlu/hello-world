@@ -1,5 +1,5 @@
 # hello-world
-first project for learning
+
 
 hi humans!
 Hubot here, I like Nodes.js and Coffeescript (that´s what I´m made of!).
